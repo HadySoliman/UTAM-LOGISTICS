@@ -34,6 +34,8 @@ body sytles start
 PANEL  
 -------------------------------------------------*/
 .services{ width:300px; float:left;}
+.services2{width:auto;}
+.services2 .ititle h1{ color:#ffc01d; margin-bottom:10px;}
 .services .ititle h1{ color:#ffc01d; margin-bottom:30px;}
 .services img{ margin-bottom:30px;}
 .services .content p{ color:#85aedb; font-size:14px;}
@@ -80,6 +82,12 @@ PAGE CONTENT SECTION
 .panel .title h1{ color:#ffc01d; text-transform:uppercase;}
 .panel .title h2{ color:#fff; font-size:16px;}
 .panel .content p{ color:#9ac5f5; padding-bottom:20px;}
+
+.panelContact{ width:100%; padding-bottom:30px;}
+.panelContact .title{ margin-bottom:30px;}
+.panelContact .title h1{ color:#ffc01d; text-transform:uppercase;}
+.panelContact .title h2{ color:#fff; font-size:16px;}
+.panelContact .content p{ color:#9ac5f5;}
 
 
 /*-------------------------------------------------
