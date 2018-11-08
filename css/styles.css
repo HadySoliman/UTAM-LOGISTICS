@@ -26,7 +26,11 @@ body sytles start
 .button a{ font-family: 'Oswald', sans-serif; font-size:14px; text-transform: uppercase; text-decoration:none; color:#104f94;}
 .button a:hover{ color:#fff;}
 
-
+.ulMission{
+	color: white;
+	margin-left: 20px;
+	padding-bottom: 15px;
+}
 .wrapper{ width:960px; margin:0 auto;}
 .page-wrapper{width:960px; margin:0 auto; margin-top:-30px;}
 .wrapper2{ width:960px; margin-bottom:60px; overflow:hidden;}
@@ -83,7 +87,7 @@ PAGE CONTENT SECTION
 .panel .title h2{ color:#fff; font-size:16px;}
 .panel .content p{ color:#9ac5f5; padding-bottom:20px;}
 
-.panelContact{ width:100%; padding-bottom:30px;}
+.panelContact{ width:105%; padding-bottom:30px;}
 .panelContact .title{ margin-bottom:30px;}
 .panelContact .title h1{ color:#ffc01d; text-transform:uppercase;}
 .panelContact .title h2{ color:#fff; font-size:16px;}
@@ -135,7 +139,7 @@ CONTACT FORM CLASSS
 .contact-form .message{padding:10px 10px;width:400px; background:#043e7f; border:#1661b3 1px solid;overflow:hidden;height:150px; color:#fff; font-family: 'Trebuchet MS', serif; font-size:14px; outline:none;}
 .contact-form .button{background: url(../images/submit-btn.png) no-repeat; color:#ffffff; text-transform:uppercase; font-family:'Oswald', sans-serif;border: none; margin-left:100px; margin-top:20px; width:100px; height:40px; color:#043e7f;}
 
-.address { float:left; width:370px; margin-left:30px;}
+.address { float:left; width:220px; margin-left:30px;}
 .address .panel { border:none; color:#fff}
 .address .panel .title h1 {  color:#fff; padding-bottom:10px;}
 .address .panel .content p span { color:#fff;}
